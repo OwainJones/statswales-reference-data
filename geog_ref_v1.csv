@@ -1,0 +1,180 @@
+﻿item_id,description_cy,description_eg,parent_id,sort_order,category_key,category_cy,category_eg,notes_cy,notes_eg,alternate_id
+K02000001,Y Deyrnas Unedig,United Kingdom,,,Geog/UK,UK,UK,,,
+596,Cymru,Wales,K02000001,,Geog/UKCountry,Gwlad UK,UK Country,,,W92000004
+E92000001,Lloegr,England,K02000001,,Geog/UKCountry,Gwlad UK,UK Country,,,
+S92000003,Yr Alban,Scotland,K02000001,,Geog/UKCountry,Gwlad UK,UK Country,,,
+N92000002,Gogledd Iwerddon,Northern Ireland,K02000001,,Geog/UKCountry,Gwlad UK,UK Country,,,
+512,Ynys Mon,Isle of Anglesey,596,,Geog/LA,Awdurdod Lleol,Local Authority,,,W06000001
+514,Gwynedd,Gwynedd,596,,Geog/LA,Awdurdod Lleol,Local Authority,,,W06000002
+516,Conwy,Conwy,596,,Geog/LA,Awdurdod Lleol,Local Authority,,,W06000003
+518,Sir Ddinbych,Denbighshire,596,,Geog/LA,Awdurdod Lleol,Local Authority,,,W06000004
+520,Sir Y Fflint,Flintshire,596,,Geog/LA,Awdurdod Lleol,Local Authority,,,W06000005
+522,Wrecsam,Wrexham,596,,Geog/LA,Awdurdod Lleol,Local Authority,,,W06000006
+524,Powys,Powys,596,,Geog/LA,Awdurdod Lleol,Local Authority,,,W06000023
+526,Ceredigion,Ceredigion,596,,Geog/LA,Awdurdod Lleol,Local Authority,,,W06000008
+528,Sir Benfro,Pembrokeshire,596,,Geog/LA,Awdurdod Lleol,Local Authority,,,W06000009
+530,Sir Gaerfryddin,Carmarthenshire,596,,Geog/LA,Awdurdod Lleol,Local Authority,,,W06000010
+532,Abertawe,Swansea,596,,Geog/LA,Awdurdod Lleol,Local Authority,,,W06000011
+534,Castell-nedd Port Talbot,Neath Port Talbot,596,,Geog/LA,Awdurdod Lleol,Local Authority,,,W06000012
+536,Pen-y-bont ar Ogwr,Bridgend,596,,Geog/LA,Awdurdod Lleol,Local Authority,,,W06000013
+538,Bro Morgannwg,Vale of Glamorgan,596,,Geog/LA,Awdurdod Lleol,Local Authority,,,W06000014
+540,Rhondda Cynon Taf,Rhondda Cynon Taf,596,,Geog/LA,Awdurdod Lleol,Local Authority,,,W06000016
+542,Merthyr Tudful,Merthyr Tydfil,596,,Geog/LA,Awdurdod Lleol,Local Authority,,,W06000024
+544,Caerffili,Caerphilly,596,,Geog/LA,Awdurdod Lleol,Local Authority,,,W06000018
+545,Blaenau Gwent,Blaenau Gwent,596,,Geog/LA,Awdurdod Lleol,Local Authority,,,W06000019
+546,Torfaen,Torfaen,596,,Geog/LA,Awdurdod Lleol,Local Authority,,,W06000020
+548,Sir Fynwy,Monmouthshire,596,,Geog/LA,Awdurdod Lleol,Local Authority,,,W06000021
+550,Casnewydd,Newport,596,,Geog/LA,Awdurdod Lleol,Local Authority,,,W06000022
+552,Caerdydd,Cardiff,596,,Geog/LA,Awdurdod Lleol,Local Authority,,,W06000015
+7A1,Betsi Cadwaladr,Betsi Cadwaladr,596,,Geog/LHB,Bwrdd Lechyd Lleol,Local Health Board,,,W11000023
+7A7,Powys,Powys,596,,Geog/LHB,Bwrdd Lechyd Lleol,Local Health Board,,,W11000024
+7A2,Hywel Dda,Hywel Dda,596,,Geog/LHB,Bwrdd Lechyd Lleol,Local Health Board,,,W11000025
+7A3x,Abertawe Bro Morgannwg,Abertawe Bro Morgannwg,596,,Geog/LHB,Bwrdd Lechyd Lleol,Local Health Board,,,W11000026
+7A5x,Cwm Taf,Cwm Taf,596,,Geog/LHB,Bwrdd Lechyd Lleol,Local Health Board,,,W11000027
+7A6,Aneurin Bevan,Aneurin Bevan,596,,Geog/LHB,Bwrdd Lechyd Lleol,Local Health Board,,,W11000028
+7A4,Caerdydd a'r Fro,Cardiff and Vale,596,,Geog/LHB,Bwrdd Lechyd Lleol,Local Health Board,,,W11000029
+7A3,Bae Abertawe,Swansea Bay,596,,Geog/LHB,Bwrdd Lechyd Lleol,Local Health Board,,,W11000031
+7A5,Cwm Taf Morgannwg,Cwm Taf Morgannwg,596,,Geog/LHB,Bwrdd Lechyd Lleol,Local Health Board,,,W11000030
+E12000006,Dwyrain Lloegr,East of England,E92000001,,Geog/EngReg,Rhanbarth Lloegr,English Region,,,
+E12000004,Dwyrain Canolbarth Lloegr,East Midlands,E92000001,,Geog/EngReg,Rhanbarth Lloegr,English Region,,,
+E12000007,Llundain,London,E92000001,,Geog/EngReg,Rhanbarth Lloegr,English Region,,,
+E12000001,Gogledd-ddwyrain Lloegr,North East,E92000001,,Geog/EngReg,Rhanbarth Lloegr,English Region,,,
+E12000002,Gogledd-orllewin Lloegr,North West,E92000001,,Geog/EngReg,Rhanbarth Lloegr,English Region,,,
+E12000008,De-ddwyrain Lloegr,South East,E92000001,,Geog/EngReg,Rhanbarth Lloegr,English Region,,,
+E12000009,De-orllewin Lloegr,South West,E92000001,,Geog/EngReg,Rhanbarth Lloegr,English Region,,,
+E12000005,Gorllewin Canolbarth Lloegr,West Midlands,E92000001,,Geog/EngReg,Rhanbarth Lloegr,English Region,,,
+E12000003,Swydd Efrog a'r Humber,Yorkshire and the Humber,E92000001,,Geog/EngReg,Rhanbarth Lloegr,English Region,,,
+456,Mynwy,Monmouth,450,,Geog/Const,Etholaeth,Constituency,,,W09000034
+447,Rhondda,Rhondda,440,,Geog/Const,Etholaeth,Constituency,,,W09000025
+448,Cwm Cynon,Cynon Valley,440,,Geog/Const,Etholaeth,Constituency,,,W09000026
+450,Dwyrain De Cymru,South Wales East,596,,Geog/Const,Etholaeth,Constituency,,,W10000008
+451,Merthyr Tudful a Rhymni,Merthyr Tydfil and Rhymney,450,,Geog/Const,Etholaeth,Constituency,,,W09000044
+452,Caerffili,Caerphilly,450,,Geog/Const,Etholaeth,Constituency,,,W09000035
+453,Islwyn,Islwyn,450,,Geog/Const,Etholaeth,Constituency,,,W09000036
+445,Gorllewin Caerdydd,Cardiff West,440,,Geog/Const,Etholaeth,Constituency,,,W09000029
+455,Torfaen,Torfaen,450,,Geog/Const,Etholaeth,Constituency,,,W09000037
+457,Dwyrain Casnewydd,Newport East,450,,Geog/Const,Etholaeth,Constituency,,,W09000040
+458,Gorllewin Casnewydd,Newport West,450,,Geog/Const,Etholaeth,Constituency,,,W09000039
+410,Gogledd Cymru,North Wales,596,,Geog/Const,Etholaeth,Constituency,,,W10000001
+411,Ynys Mon,Ynys Mon,410,,Geog/Const,Etholaeth,Constituency,,,W09000001
+412,Arfon,Arfon,410,,Geog/Const,Etholaeth,Constituency,,,W09000002
+413,Aberconwy,Aberconwy,410,,Geog/Const,Etholaeth,Constituency,,,W09000003
+414,Gorllewin Clwyd,Clwyd West,410,,Geog/Const,Etholaeth,Constituency,,,W09000004
+454,Blaenau Gwent,Blaenau Gwent,450,,Geog/Const,Etholaeth,Constituency,,,W09000038
+440,Canol De Cymru,South Wales Central,596,,Geog/Const,Etholaeth,Constituency,,,W10000007
+434,Castell-nedd,Neath,430,,Geog/Const,Etholaeth,Constituency,,,W09000021
+435,Aberafan,Aberavon,430,,Geog/Const,Etholaeth,Constituency,,,W09000022
+446,Pontypridd,Pontypridd,440,,Geog/Const,Etholaeth,Constituency,,,W09000046
+437,Ogwr,Ogmore,430,,Geog/Const,Etholaeth,Constituency,,,W09000045
+441,Bro Morgannwg,Vale of Glamorgan,440,,Geog/Const,Etholaeth,Constituency,,,W09000047
+442,De Caerdydd a Phenarth,Cardiff South and Penarth,440,,Geog/Const,Etholaeth,Constituency,,,W09000043
+443,Canol Caerdydd,Cardiff Central,440,,Geog/Const,Etholaeth,Constituency,,,W09000031
+444,Gogledd Caerdydd,Cardiff North,440,,Geog/Const,Etholaeth,Constituency,,,W09000042
+419,De Clwyd,Clwyd South,410,,Geog/Const,Etholaeth,Constituency,,,W09000009
+415,Dyffryn Clwyd,Vale of Clwyd,410,,Geog/Const,Etholaeth,Constituency,,,W09000005
+436,Pen-y-bont ar Ogwr,Bridgend,430,,Geog/Const,Etholaeth,Constituency,,,W09000023
+417,Alun a Glannau Dyfrdwy,Alyn and Deeside,410,,Geog/Const,Etholaeth,Constituency,,,W09000007
+427,Dwyrain Caerfyrddin a Dinefwr,Carmarthen East and Dinefwr,420,,Geog/Const,Etholaeth,Constituency,,,W09000015
+418,Wrecsam,Wrexham,410,,Geog/Const,Etholaeth,Constituency,,,W09000008
+420,Canolbarth a Gorllewin Cymru,Mid and West Wales,596,,Geog/Const,Etholaeth,Constituency,,,W10000006
+421,Dwyfor Meirionnydd,Dwyfor Meirionnydd,420,,Geog/Const,Etholaeth,Constituency,,,W09000010
+422,Sir Drefaldwyn,Montgomeryshire,420,,Geog/Const,Etholaeth,Constituency,,,W09000011
+423,Brycheiniog a Sir Faesyfed,Brecon and Radnorshire,420,,Geog/Const,Etholaeth,Constituency,,,W09000041
+424,Ceredigion,Ceredigion,420,,Geog/Const,Etholaeth,Constituency,,,W09000012
+426,Gorllewin Caerfyrddin a De Sir Benfro,Carmarthen West and South Pembrokeshire,420,,Geog/Const,Etholaeth,Constituency,,,W09000016
+428,Llanelli,Llanelli,420,,Geog/Const,Etholaeth,Constituency,,,W09000017
+430,Gorllewin De Cymru,South Wales West,596,,Geog/Const,Etholaeth,Constituency,,,W10000009
+431,Gwyr,Gower,430,,Geog/Const,Etholaeth,Constituency,,,W09000018
+432,Gorllewin Abertawe,Swansea West,430,,Geog/Const,Etholaeth,Constituency,,,W09000019
+433,Dwyrain Abertawe,Swansea East,430,,Geog/Const,Etholaeth,Constituency,,,W09000020
+416,Delyn,Delyn,410,,Geog/Const,Etholaeth,Constituency,,,W09000006
+425,Preseli Sir Benfro,Preseli Pembrokeshire,420,,Geog/Const,Etholaeth,Constituency,,,W09000014
+582,Parc Cenedlaethol Bannau Brycheiniog,Brecon Beacons National Park,596,,Geog/NatPark,Parc Cenedlaethol,National Park,,,W18000001
+584,Parc Cenedlaethol Afordir Penfro,Pembrokeshire Coast National Park,596,,Geog/NatPark,Parc Cenedlaethol,National Park,,,W18000002
+586,Parc Cenedlaethol Eryri,Snowdonia National Park,596,,Geog/NatPark,Parc Cenedlaethol,National Park,,,W18000003
+562,Heddlu Dyfed Powys,Dyfed Powys Police,596,,Geog/PolAuth,Awdurdod yr Heddlu,Police Authority,,,W15000004
+564,Heddlu Gwent,Gwent Police,596,,Geog/PolAuth,Awdurdod yr Heddlu,Police Authority,,,W15000002
+566,Heddlu Gogledd Cymru,North Wales Police,596,,Geog/PolAuth,Awdurdod yr Heddlu,Police Authority,,,W15000001
+568,Heddlu De Cymru,South Wales Police,596,,Geog/PolAuth,Awdurdod yr Heddlu,Police Authority,,,W15000003
+572,Gwasanaeth tân ac achub Canolbarth a Gorllewin Cymru,Mid and West Wales Fire and Rescue Service,596,,Geog/FireAuth,Awdurdod Tân,Fire Authority,,,W25000002
+574,Gwasanaeth tân ac achub Gogledd Cymru,North Wales Fire and Rescue Service,596,,Geog/FireAuth,Awdurdod Tân,Fire Authority,,,W25000001
+576,Gwasanaeth tân ac achub de Cymru,South Wales Fire and Rescue Service,596,,Geog/FireAuth,Awdurdod Tân,Fire Authority,,,W25000003
+W33000183,Rhondda Cynon Taf - Rhondda Fawr Uchaf,Rhondda Cynon Taf - Upper Rhondda Fawr,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000191,Caerffili - Cwm Rhymni Uchaf,Caerphilly - Upper Rhymney Valley,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000175,Pen-y-bont ar Ogwr - Uchaf,Bridgend - Upper,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000176,Bro Morgannwg,Vale of Glamorgan,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000177,Rhondda Cynon Taf - Cynon Isaf,Rhondda Cynon Taf - Lower Cynon,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000178,Rhondda Cynon Taf - Pontypridd,Rhondda Cynon Taf - Pontypridd,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000179,Rhondda Cynon Taf - Y Porth,Rhondda Cynon Taf - Porth,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000180,Rhondda Cynon Taf - Gorllewin Taf,Rhondda Cynon Taf - Taf West,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000173,Pen-y-bont ar Ogwr - Isaf,Bridgend - Lower,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000182,Rhondda Cynon Taf - Rhondda Fach Uchaf,Rhondda Cynon Taf - Upper Rhondda Fach,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000172,Castell-nedd Port Talbot - Cymoedd Gorllewinol,Neath Port Talbot - Western Valleys,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000184,Rhondda Cynon Taf - Rhondda Ganol,Rhonnda Cynon Taf - Mid Rhondda,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000185,Merthyr Tudful - Canol,Merthyr Tydfil - Central,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000186,Merthyr Tudful - Gogledd,Merthyr Tydfil - Northern,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000187,Merthyr Tudful - De,Merthyr Tydfil - Southern,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000188,Caerffili - Basn,Caerphilly - Basin,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000189,Caerffili - Cymoedd Canol Dwyrain,Caerphilly - Mid Valleys East,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000154,Ynys Mon,Isle of Anglesey,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000181,Rhondda Cynon Taf - Cynon Uchaf,Rhondda Cynon Taf - Upper Cynon,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000164,Abertawe - Dwyrain,Swansea - East,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000155,Gwynedd,Gwynedd,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000156,Conwy,Conwy,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000157,Sir Ddinbych,Denbighshire,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000158,Sir y Fflint - Gorllewin,Flintshire - West,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000159,Sir y Fflint - Dwyrain,Flintshire - East,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000160,Wrecsam - Parc Caia a Hightown,Wrexham - Caia Park and Hightown,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000161,Wrecsam - Pentrefi Trefol,Wrexham - Urban Villages,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000174,Pen-y-bont ar Ogwr - Canol,Bridgend - Mid,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000163,Sir Gaerfyrddin,Carmarthenshire,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000192,Blaenau Gwent - Ebwy Fawr,Blaenau Gwent - Ebbw Fawr,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000165,Abertawe - Gogledd Ddwyrain,Swansea - North East,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000166,Abertawe - Gogledd Orllewin,Swansea - North West,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000167,Abertawe - De,Swansea - South,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000168,Abertawe - Gorllewin,Swansea - West,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000169,Castell-nedd Port Talbot - Dyffryn Afan,Neath Port Talbot - Afan Valley,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000170,Castell-nedd Port Talbot - Tref Castell-nedd,Neath Port Talbot - Neath Town,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000171,Castell-nedd Port Talbot - Traethmelyn Aberafan,Neath Port Talbot - Sandfields Aberavon,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000162,Sir Benfro,Pembrokeshire,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000190,Caerffili - Cymoedd Canol Gorllewin,Caerphilly - Mid Valleys West,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000202,Caerdydd - Butetown Glanyrafon Grangetown,Cardiff - BRG,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000193,Blaenau Gwent - Gogledd Ebwy Fach,Blaenau Gwent - North Ebbw Fach,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000194,Blaenau Gwent - De Ebwy Fach,Blaenau Gwent - South Ebbw Fach,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000195,Blaenau Gwent - Tredegar,Blaenau Gwent - Tredegar,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000196,Torfaen - Gogledd,Torfaen - North,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000197,Torfaen - De,Torfaen - South,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000198,Casnewydd - Canol,Newport - Central,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000199,Casnewydd - Dwyrain,Newport - East,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000201,Casnewydd - Gorllewin,Newport - West,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000203,Caerdydd - Dwyrain,Cardiff - East,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000204,Caerdydd - Y Sblot Tremorfa Adamsdown Y Rhath,Cardiff - STAR,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000205,Caerdydd - Gorllewin,Cardiff - West,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W34000002,Ddim yn Ardal Cymunedau yn Gyntaf (1 Ebrill 2013),Non-Communities First Areas (1 April 2013),596,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W34000003,Yr Holl clystyrau Cymunedau yn Gyntaf,All Communities First Clusters,596,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+W33000200,Casnewydd - Gogledd,Newport - North,W34000003,,Geog/CFA,Ardal Cymunedau yn Gyntaf,Communities First Area,,,
+1.1.00.000,Gorllewin Cymru a'r Cymoedd,West Wales and the Valleys,1.0.00.000,,Geog/NUTS2,NUTS2,NUTS2,,,UKL1
+1.2.00.000,Dwyrain Cymru,East Wales,1.0.00.000,,Geog/NUTS2,NUTS2,NUTS2,,,UKL2
+1.1.01.512,Ynys Mon,Isle of Anglesey,1.1.00.000,,Geog/NUTS2,NUTS2,NUTS2,,,UKL1100
+1.1.02.514,Gwynedd,Gwynedd,1.1.00.000,,Geog/NUTS2,NUTS2,NUTS2,,,UKL1200
+1.1.03.516,Conwy,Conwy,1.1.00.000,,Geog/NUTS2,NUTS2,NUTS2,,,UKL1301
+1.1.03.518,Sir Ddinbych,Denbighshire,1.1.00.000,,Geog/NUTS2,NUTS2,NUTS2,,,UKL1302
+1.2.09.520,Sir y Fflint,Flintshire,1.2.00.000,,Geog/NUTS2,NUTS2,NUTS2,,,UKL2301
+1.2.09.522,Wrecsam,Wrexham,1.2.00.000,,Geog/NUTS2,NUTS2,NUTS2,,,UKL2302
+1.2.10.524,Powys,Powys,1.2.00.000,,Geog/NUTS2,NUTS2,NUTS2,,,UKL2400
+1.1.04.526,Ceredigion,Ceredigion,1.1.00.000,,Geog/NUTS2,NUTS2,NUTS2,,,UKL1402
+1.1.04.528,Sir Benfro,Pembrokeshire,1.1.00.000,,Geog/NUTS2,NUTS2,NUTS2,,,UKL1403
+1.1.04.530,Sir Gaerfyrddin,Carmarthenshire,1.1.00.000,,Geog/NUTS2,NUTS2,NUTS2,,,UKL1401
+1.1.05.532,Abertawe,Swansea,1.1.00.000,,Geog/NUTS2,NUTS2,NUTS2,,,UKL1800
+1.1.06.534,Castell-nedd Port Talbot,Neath Port Talbot,1.1.00.000,,Geog/NUTS2,NUTS2,NUTS2,,,UKL1702
+1.1.06.536,Pen-y-bont ar Ogwr,Bridgend,1.1.00.000,,Geog/NUTS2,NUTS2,NUTS2,,,UKL1701
+1.2.11.538,Bro Morgannwg,The Vale of Glamorgan,1.2.00.000,,Geog/NUTS2,NUTS2,NUTS2,,,UKL2202
+1.2.11.552,Caerdydd,Cardiff,1.2.00.000,,Geog/NUTS2,NUTS2,NUTS2,,,UKL2201
+1.1.07.540,Rhondda Cynon Taf,Rhondda Cynon Taf,1.1.00.000,,Geog/NUTS2,NUTS2,NUTS2,,,UKL1502
+1.1.07.542,Merthyr Tudful,Merthyr Tydfil,1.1.00.000,,Geog/NUTS2,NUTS2,NUTS2,,,UKL1501
+1.1.08.544,Caerffili,Caerphilly,1.1.00.000,,Geog/NUTS2,NUTS2,NUTS2,,,UKL1602
+1.1.08.545,Blaenau Gwent,Blaenau Gwent,1.1.00.000,,Geog/NUTS2,NUTS2,NUTS2,,,UKL1601
+1.1.08.546,Tor-faen,Torfaen,1.1.00.000,,Geog/NUTS2,NUTS2,NUTS2,,,UKL1603
+1.2.12.548,Sir Fynwy,Monmouthshire,1.2.00.000,,Geog/NUTS2,NUTS2,NUTS2,,,UKL2101
+1.2.12.550,Casnewydd,Newport,1.2.00.000,,Geog/NUTS2,NUTS2,NUTS2,,,UKL2102
+1.0.00.000,Cymru,Wales,,,Geog/NUTS2,NUTS2,NUTS2,,,UKL
