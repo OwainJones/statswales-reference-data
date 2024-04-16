@@ -20,7 +20,12 @@ repository for ref data and associated code
  Note: if you wish to examine the resulting data frames in Rstudio, you will want to comment out the last line of code (rm(list=ls())
  You can also edit the start and end years in the script itself (lines 18 & 19), note if you do so you may need to adjust the starting value of the day_of_week variable at line 363 to reflect what day of the week the new start yer begins on.
 
+# Sources for the reference data
+ Ethnicity lists are drawn from the UK governments agreed list of ethnic groups as used in the 2021 Census, detailed here: 
+ https://www.ethnicity-facts-figures.service.gov.uk/style-guide/ethnic-groups/
+ https://www.ons.gov.uk/census/census2021dictionary/variablesbytopic/ethnicgroupnationalidentitylanguageandreligionvariablescensus2021/ethnicgroup/classifications
 
+ Geographic data is currently pulled from existing data in Stats Wales 2, and uses data from opendata.wales and gov.uk where available
 
 
  
