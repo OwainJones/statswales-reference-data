@@ -11,12 +11,6 @@
 ##################################################################################
 
 
-#Load data.table library
-library(data.table)
-library(dplyr)
-library(jsonlite)
-library(urltools)
-
 ###Output directory
 dir_out = "G:/StatsWales/"
 
