@@ -17,6 +17,9 @@ repository for ref data and associated code
  In command line (cmd) navigate to R's bin directory (using 'setwd("C:/R/R-4.3.3/bin")'), adjust details of the directory as necessary
  Then run 'Rscript "C:/Users/owain/Documents/SW_ref_data.R" "G:/StatsWales/"' Adjusting the code directory and the output directory as necessary
 
+ Note: if you wish to examine the resulting data frames in Rstudio, you will want to comment out the last line of code (rm(list=ls())
+ You can also edit the start and end years in the script itself (lines 18 & 19), note if you do so you may need to adjust the starting value of the day_of_week variable at line 363 to reflect what day of the week the new start yer begins on.
+
 
 
 
