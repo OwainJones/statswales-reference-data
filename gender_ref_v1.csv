@@ -1,0 +1,8 @@
+﻿item_id,description_cy,description_eg,parent_id,sort_order,category_key,category_cy,category_eg,notes_cy,notes_eg,alternate_id
+P,Pobl,Persons,,1,Gen/Gen,Rhyw,Gender,,,
+M,Dynion,Male,P,2,Gen/Gen,Rhyw,Gender,,,
+F,Merched,Female,P,3,Gen/Gen,Rhyw,Gender,,,
+NB,Anneuaidd,Non-binary,P,4,Gen/Gen,Rhyw,Gender,,,
+IG,Rhyw Amhenodol (i.e. Dim modd dosbarthu fel naill ai ddyn neu fenyw),Indeterminate Gender (i.e. unable to classify as either male or female),P,5,Gen/Gen,Rhyw,Gender,,,
+UC,Plant heb eu geni,Unborn Children,P,6,Gen/Gen,Rhyw,Gender,,,
+X,Anhysbys / heb ei roi,Not known/not given,P,7,Gen/Gen,Rhyw,Gender,,,
