@@ -1,0 +1,10 @@
+﻿item_id,description_cy,description_eg,parent_id,sort_order,category_key,category_cy,category_eg,notes_cy,notes_eg,alternate_id
+CHR,Cristion,Christian,ALL,1,Rlgn/Rlgn,Cerfydd,Religion,,,
+MSL,Mwslimaidd (Islam),Muslim (Islam),ALL,2,Rlgn/Rlgn,Cerfydd,Religion,,,
+HIN,Hindwaidd,Hindu,ALL,3,Rlgn/Rlgn,Cerfydd,Religion,,,
+JEW,Iddewig,Jewish,ALL,4,Rlgn/Rlgn,Cerfydd,Religion,,,
+BUD,Bwdhaidd,Buddhist,ALL,5,Rlgn/Rlgn,Cerfydd,Religion,,,
+SIK,Sikh,Sikh,ALL,6,Rlgn/Rlgn,Cerfydd,Religion,,,
+AOR,Crefydd Arall,Other Religions,ALL,7,Rlgn/Rlgn,Cerfydd,Religion,,,
+NOR,Dim Cerfydd,No Religion,ALL,8,Rlgn/Rlgn,Cerfydd,Religion,,,
+ALL,Pob cerfydd,All religions,,0,Rlgn/Rlgn,Cerfydd,Religion,,,
